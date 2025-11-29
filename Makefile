@@ -8,6 +8,7 @@ clean:	;
 
 rebuild: ;
 	       rm -rf build; \
+	       rm -rf types; \
 				 tsc; \
 
 pretest:	;

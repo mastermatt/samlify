@@ -4,4 +4,7 @@ test
 @types
 docs
 yarn*
+.circleci
+.github
+.idea
 .nyc_output

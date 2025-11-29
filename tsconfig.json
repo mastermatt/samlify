@@ -27,7 +27,8 @@
   "exclude": [
     "node_modules",
     "types/**/*.ts",
-    "test/**/*.ts"
+    "test/**/*.ts",
+    "vitest.config.ts"
   ],
   "compileOnSave": false,
   "buildOnSave": false
