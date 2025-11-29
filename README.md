@@ -5,7 +5,10 @@
 [![NPM](https://img.shields.io/npm/dm/samlify.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/samlify)
 [![Coverage Status](https://img.shields.io/coveralls/tngan/samlify/master.svg?style=for-the-badge&logo=coveralls)](https://coveralls.io/github/tngan/samlify?branch=master)
 
-Highly configuarable Node.js SAML 2.0 library for Single Sign On
+
+A fork of https://github.com/tngan/samlify.
+
+Highly configurable Node.js SAML 2.0 library for Single Sign On
 
 ## Welcome PRs
 
