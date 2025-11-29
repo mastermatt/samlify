@@ -8,6 +8,8 @@
 
 A fork of https://github.com/tngan/samlify.
 
+- v2.10.2 includes https://github.com/tngan/samlify/pull/579
+
 Highly configurable Node.js SAML 2.0 library for Single Sign On
 
 ## Welcome PRs
